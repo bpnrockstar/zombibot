@@ -1,0 +1,604 @@
+
+
+	=====================================
+
+	    	 MassGrabber Results         
+
+		Total Sites    =  1550
+
+		Total Payloads =  43
+
+	=====================================
+
+	
+---------------------------------------------------------------------
+[Connecting] : http://scholars.unh.edu...
+[Connected]  : http://scholars.unh.edu is connected
+[Checking 1/1550] : Checking http://scholars.unh.edu 
+
+[OK] : http://scholars.unh.edu/admin/
+
+---------------------------------------------------------------------
+[Connecting] : http://www.canadiangreatwarproject.com...
+[Connected]  : http://www.canadiangreatwarproject.com is connected
+[Checking 2/1550] : Checking http://www.canadiangreatwarproject.com 
+
+[OK] : http://www.canadiangreatwarproject.com/login/
+
+---------------------------------------------------------------------
+[Connecting] : http://www.copeve.ufal.br...
+[Connected]  : http://www.copeve.ufal.br is connected
+[Checking 3/1550] : Checking http://www.copeve.ufal.br 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://www.ci.morrisville.nc.us...
+[Connected]  : http://www.ci.morrisville.nc.us is connected
+[Checking 4/1550] : Checking http://www.ci.morrisville.nc.us 
+
+[OK] : http://www.ci.morrisville.nc.us/admin/
+
+---------------------------------------------------------------------
+[Connecting] : http://www.affiliateprogramslocator.com...
+[Connected]  : http://www.affiliateprogramslocator.com is connected
+[Checking 5/1550] : Checking http://www.affiliateprogramslocator.com 
+
+[OK] : http://www.affiliateprogramslocator.com/login.php
+[OK] : http://www.affiliateprogramslocator.com/admin/
+
+---------------------------------------------------------------------
+[Connecting] : http://proactiveinterventions.com...
+[Connected]  : http://proactiveinterventions.com is connected
+[Checking 6/1550] : Checking http://proactiveinterventions.com 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://tibetmycountry.com...
+[Connected]  : http://tibetmycountry.com is connected
+[Checking 7/1550] : Checking http://tibetmycountry.com 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://bodrumdeltayapi.com
+[Failed] : http://bodrumdeltayapi.com is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.supervaluinvestors.com...
+[Connected]  : http://www.supervaluinvestors.com is connected
+[Checking 9/1550] : Checking http://www.supervaluinvestors.com 
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://about:blank
+[Failed] : http://about:blank is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.schoolguide-new.edukidshosting.com
+[Failed] : http://www.schoolguide-new.edukidshosting.com is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://dongnamkim.com.vn...
+[Connected]  : http://dongnamkim.com.vn is connected
+[Checking 12/1550] : Checking http://dongnamkim.com.vn 
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://scholarship.sha.cornell.edu...
+[Connected]  : http://scholarship.sha.cornell.edu is connected
+[Checking 13/1550] : Checking http://scholarship.sha.cornell.edu 
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://kanakdharainternational.com
+[Failed] : http://kanakdharainternational.com is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.pathwayoutreach.org...
+[Connected]  : http://www.pathwayoutreach.org is connected
+[Checking 15/1550] : Checking http://www.pathwayoutreach.org 
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://joomlaextensions.co.in...
+[Connected]  : http://joomlaextensions.co.in is connected
+[Checking 16/1550] : Checking http://joomlaextensions.co.in 
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://cdg.connectedfactory.com
+[Failed] : http://cdg.connectedfactory.com is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://pasadenaseacadets.org
+[Failed] : http://pasadenaseacadets.org is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.freece.com...
+[Connected]  : http://www.freece.com is connected
+[Checking 19/1550] : Checking http://www.freece.com 
+
+[OK] : http://www.freece.com/admin/
+
+---------------------------------------------------------------------
+[Connecting] : http://praxis-albert.net
+[Failed] : http://praxis-albert.net is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.mabonamabli.co.uk...
+[Connected]  : http://www.mabonamabli.co.uk is connected
+[Checking 21/1550] : Checking http://www.mabonamabli.co.uk 
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.rwjhamilton.org...
+[Connected]  : http://www.rwjhamilton.org is connected
+[Checking 22/1550] : Checking http://www.rwjhamilton.org 
+
+[OK] : http://www.rwjhamilton.org/adminlogin.php
+[OK] : http://www.rwjhamilton.org/adm/
+[OK] : http://www.rwjhamilton.org/admin/adminLogin.html
+[OK] : http://www.rwjhamilton.org/login.asp
+[OK] : http://www.rwjhamilton.org/relogin.html
+[OK] : http://www.rwjhamilton.org/admin/account.html
+[OK] : http://www.rwjhamilton.org/bb-admin/admin.php
+[OK] : http://www.rwjhamilton.org/login/
+[OK] : http://www.rwjhamilton.org/admin/controlpanel.htm
+[OK] : http://www.rwjhamilton.org/sm/login.asp
+[OK] : http://www.rwjhamilton.org/login.php
+[OK] : http://www.rwjhamilton.org/user/admin.php
+[OK] : http://www.rwjhamilton.org/relogin.php
+[OK] : http://www.rwjhamilton.org/admin/login.html
+[OK] : http://www.rwjhamilton.org/admin/account.php
+[OK] : http://www.rwjhamilton.org/admin/adminLogin.htm
+[OK] : http://www.rwjhamilton.org/admin/
+[OK] : http://www.rwjhamilton.org/admin/login.htm
+[OK] : http://www.rwjhamilton.org/login.htm
+[OK] : http://www.rwjhamilton.org/relogin.htm
+[OK] : http://www.rwjhamilton.org/registration/
+[OK] : http://www.rwjhamilton.org/admin/cp.php
+[OK] : http://www.rwjhamilton.org/bb-admin/admin.html
+[OK] : http://www.rwjhamilton.org/admin/controlpanel.php
+[OK] : http://www.rwjhamilton.org/users/admin.php
+[OK] : http://www.rwjhamilton.org/blog/wp-login.php
+[OK] : http://www.rwjhamilton.org/admin/admin-login.php
+[OK] : http://www.rwjhamilton.org/login.html
+[OK] : http://www.rwjhamilton.org/checkadmin.php
+[OK] : http://www.rwjhamilton.org/bb-admin/login.php
+[OK] : http://www.rwjhamilton.org/admin/controlpanel.html
+[OK] : http://www.rwjhamilton.org/wp-login.php
+[OK] : http://www.rwjhamilton.org/admin.php
+[OK] : http://www.rwjhamilton.org/portal/login/index.php
+[OK] : http://www.rwjhamilton.org/administrator/account.php
+[OK] : http://www.rwjhamilton.org/checkuser.php
+[OK] : http://www.rwjhamilton.org/admin-login.php
+[OK] : http://www.rwjhamilton.org/control/
+[OK] : http://www.rwjhamilton.org/check.php
+[OK] : http://www.rwjhamilton.org/processlogin.php
+[OK] : http://www.rwjhamilton.org/admin/admin_login.php
+[OK] : http://www.rwjhamilton.org/admin/home.php
+[OK] : http://www.rwjhamilton.org/checklogin.php
+
+---------------------------------------------------------------------
+[Connecting] : https://freerangestock.com...
+[Connected]  : https://freerangestock.com is connected
+[Checking 23/1550] : Checking https://freerangestock.com 
+
+[OK] : https://freerangestock.com/login.php
+
+---------------------------------------------------------------------
+[Connecting] : http://www.hotelcrystalgangaheights.com
+[Failed] : http://www.hotelcrystalgangaheights.com is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://cricket.majlisesehat.co.uk...
+[Connected]  : http://cricket.majlisesehat.co.uk is connected
+[Checking 25/1550] : Checking http://cricket.majlisesehat.co.uk 
+
+[OK] : http://cricket.majlisesehat.co.uk/adminlogin.php
+[OK] : http://cricket.majlisesehat.co.uk/adm/
+[OK] : http://cricket.majlisesehat.co.uk/admin/adminLogin.html
+[OK] : http://cricket.majlisesehat.co.uk/login.asp
+[OK] : http://cricket.majlisesehat.co.uk/relogin.html
+[OK] : http://cricket.majlisesehat.co.uk/admin/account.html
+[OK] : http://cricket.majlisesehat.co.uk/bb-admin/admin.php
+[OK] : http://cricket.majlisesehat.co.uk/login/
+[OK] : http://cricket.majlisesehat.co.uk/admin/controlpanel.htm
+[OK] : http://cricket.majlisesehat.co.uk/sm/login.asp
+[OK] : http://cricket.majlisesehat.co.uk/login.php
+[OK] : http://cricket.majlisesehat.co.uk/user/admin.php
+[OK] : http://cricket.majlisesehat.co.uk/relogin.php
+[OK] : http://cricket.majlisesehat.co.uk/admin/login.html
+[OK] : http://cricket.majlisesehat.co.uk/admin/account.php
+[OK] : http://cricket.majlisesehat.co.uk/admin/adminLogin.htm
+[OK] : http://cricket.majlisesehat.co.uk/admin/
+[OK] : http://cricket.majlisesehat.co.uk/admin/login.htm
+[OK] : http://cricket.majlisesehat.co.uk/login.htm
+[OK] : http://cricket.majlisesehat.co.uk/relogin.htm
+[OK] : http://cricket.majlisesehat.co.uk/registration/
+[OK] : http://cricket.majlisesehat.co.uk/admin/cp.php
+[OK] : http://cricket.majlisesehat.co.uk/bb-admin/admin.html
+[OK] : http://cricket.majlisesehat.co.uk/admin/controlpanel.php
+[OK] : http://cricket.majlisesehat.co.uk/users/admin.php
+[OK] : http://cricket.majlisesehat.co.uk/blog/wp-login.php
+[OK] : http://cricket.majlisesehat.co.uk/admin/admin-login.php
+[OK] : http://cricket.majlisesehat.co.uk/login.html
+[OK] : http://cricket.majlisesehat.co.uk/checkadmin.php
+[OK] : http://cricket.majlisesehat.co.uk/bb-admin/login.php
+[OK] : http://cricket.majlisesehat.co.uk/admin/controlpanel.html
+[OK] : http://cricket.majlisesehat.co.uk/wp-login.php
+[OK] : http://cricket.majlisesehat.co.uk/admin.php
+[OK] : http://cricket.majlisesehat.co.uk/portal/login/index.php
+[OK] : http://cricket.majlisesehat.co.uk/administrator/account.php
+[OK] : http://cricket.majlisesehat.co.uk/checkuser.php
+[OK] : http://cricket.majlisesehat.co.uk/admin-login.php
+[OK] : http://cricket.majlisesehat.co.uk/control/
+[OK] : http://cricket.majlisesehat.co.uk/check.php
+[OK] : http://cricket.majlisesehat.co.uk/processlogin.php
+[OK] : http://cricket.majlisesehat.co.uk/admin/admin_login.php
+[OK] : http://cricket.majlisesehat.co.uk/admin/home.php
+[OK] : http://cricket.majlisesehat.co.uk/checklogin.php
+
+---------------------------------------------------------------------
+[Connecting] : http://www.taraguesthouse.co.in...
+[Connected]  : http://www.taraguesthouse.co.in is connected
+[Checking 26/1550] : Checking http://www.taraguesthouse.co.in 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://guides.gamepressure.com...
+[Connected]  : http://guides.gamepressure.com is connected
+[Checking 27/1550] : Checking http://guides.gamepressure.com 
+
+[OK] : http://guides.gamepressure.com/adm/
+[OK] : http://guides.gamepressure.com/login/
+[OK] : http://guides.gamepressure.com/registration/
+[OK] : http://guides.gamepressure.com/control/
+
+---------------------------------------------------------------------
+[Connecting] : http://www.ralcoanimalhealth.com...
+[Connected]  : http://www.ralcoanimalhealth.com is connected
+[Checking 28/1550] : Checking http://www.ralcoanimalhealth.com 
+
+[OK] : http://www.ralcoanimalhealth.com/login/
+[OK] : http://www.ralcoanimalhealth.com/admin/
+[OK] : http://www.ralcoanimalhealth.com/wp-login.php
+
+---------------------------------------------------------------------
+[Connecting] : http://opensiuc.lib.siu.edu...
+[Connected]  : http://opensiuc.lib.siu.edu is connected
+[Checking 29/1550] : Checking http://opensiuc.lib.siu.edu 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://www.burningtheclocks.co.uk
+[Failed] : http://www.burningtheclocks.co.uk is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://thingsthataresmart.wiki...
+[Connected]  : http://thingsthataresmart.wiki is connected
+[Checking 31/1550] : Checking http://thingsthataresmart.wiki 
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.songpansa.com
+[Failed] : http://www.songpansa.com is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.drakestate.edu...
+[Connected]  : http://www.drakestate.edu is connected
+[Checking 33/1550] : Checking http://www.drakestate.edu 
+
+[OK] : http://www.drakestate.edu/admin/
+
+---------------------------------------------------------------------
+[Connecting] : https://www.brooksrunning.com...
+[Connected]  : https://www.brooksrunning.com is connected
+[Checking 34/1550] : Checking https://www.brooksrunning.com 
+
+[OK] : https://www.brooksrunning.com/adminlogin.php
+[OK] : https://www.brooksrunning.com/adm/
+[OK] : https://www.brooksrunning.com/admin/adminLogin.html
+[OK] : https://www.brooksrunning.com/login.asp
+[OK] : https://www.brooksrunning.com/relogin.html
+[OK] : https://www.brooksrunning.com/admin/account.html
+[OK] : https://www.brooksrunning.com/bb-admin/admin.php
+[OK] : https://www.brooksrunning.com/login/
+[OK] : https://www.brooksrunning.com/admin/controlpanel.htm
+[OK] : https://www.brooksrunning.com/sm/login.asp
+[OK] : https://www.brooksrunning.com/login.php
+[OK] : https://www.brooksrunning.com/user/admin.php
+[OK] : https://www.brooksrunning.com/relogin.php
+[OK] : https://www.brooksrunning.com/admin/login.html
+[OK] : https://www.brooksrunning.com/admin/account.php
+[OK] : https://www.brooksrunning.com/admin/adminLogin.htm
+[OK] : https://www.brooksrunning.com/admin/
+[OK] : https://www.brooksrunning.com/admin/login.htm
+[OK] : https://www.brooksrunning.com/login.htm
+[OK] : https://www.brooksrunning.com/relogin.htm
+[OK] : https://www.brooksrunning.com/registration/
+[OK] : https://www.brooksrunning.com/admin/cp.php
+[OK] : https://www.brooksrunning.com/bb-admin/admin.html
+[OK] : https://www.brooksrunning.com/admin/controlpanel.php
+[OK] : https://www.brooksrunning.com/users/admin.php
+[OK] : https://www.brooksrunning.com/blog/wp-login.php
+[OK] : https://www.brooksrunning.com/admin/admin-login.php
+[OK] : https://www.brooksrunning.com/login.html
+[OK] : https://www.brooksrunning.com/checkadmin.php
+[OK] : https://www.brooksrunning.com/bb-admin/login.php
+[OK] : https://www.brooksrunning.com/admin/controlpanel.html
+[OK] : https://www.brooksrunning.com/wp-login.php
+[OK] : https://www.brooksrunning.com/admin.php
+[OK] : https://www.brooksrunning.com/portal/login/index.php
+[OK] : https://www.brooksrunning.com/administrator/account.php
+[OK] : https://www.brooksrunning.com/checkuser.php
+[OK] : https://www.brooksrunning.com/admin-login.php
+[OK] : https://www.brooksrunning.com/control/
+[OK] : https://www.brooksrunning.com/check.php
+[OK] : https://www.brooksrunning.com/processlogin.php
+[OK] : https://www.brooksrunning.com/admin/admin_login.php
+[OK] : https://www.brooksrunning.com/admin/home.php
+[OK] : https://www.brooksrunning.com/checklogin.php
+
+---------------------------------------------------------------------
+[Connecting] : http://www.easttexasfoodbank.org...
+[Connected]  : http://www.easttexasfoodbank.org is connected
+[Checking 35/1550] : Checking http://www.easttexasfoodbank.org 
+
+[OK] : http://www.easttexasfoodbank.org/login/
+[OK] : http://www.easttexasfoodbank.org/admin/
+[OK] : http://www.easttexasfoodbank.org/wp-login.php
+
+---------------------------------------------------------------------
+[Connecting] : http://www.daat.ac.il...
+[Connected]  : http://www.daat.ac.il is connected
+[Checking 36/1550] : Checking http://www.daat.ac.il 
+
+[OK] : http://www.daat.ac.il/adminlogin.php
+[OK] : http://www.daat.ac.il/login.asp
+[OK] : http://www.daat.ac.il/relogin.html
+[OK] : http://www.daat.ac.il/login.php
+[OK] : http://www.daat.ac.il/relogin.php
+[OK] : http://www.daat.ac.il/login.htm
+[OK] : http://www.daat.ac.il/relogin.htm
+[OK] : http://www.daat.ac.il/login.html
+[OK] : http://www.daat.ac.il/checkadmin.php
+[OK] : http://www.daat.ac.il/wp-login.php
+[OK] : http://www.daat.ac.il/admin.php
+[OK] : http://www.daat.ac.il/checkuser.php
+[OK] : http://www.daat.ac.il/admin-login.php
+[OK] : http://www.daat.ac.il/check.php
+[OK] : http://www.daat.ac.il/processlogin.php
+[OK] : http://www.daat.ac.il/checklogin.php
+
+---------------------------------------------------------------------
+[Connecting] : http://www.gflibrary.com...
+[Connected]  : http://www.gflibrary.com is connected
+[Checking 37/1550] : Checking http://www.gflibrary.com 
+
+[OK] : http://www.gflibrary.com/admin/
+
+---------------------------------------------------------------------
+[Connecting] : https://www.chargerback.com...
+[Connected]  : https://www.chargerback.com is connected
+[Checking 38/1550] : Checking https://www.chargerback.com 
+
+[OK] : https://www.chargerback.com/login.asp
+[OK] : https://www.chargerback.com/login.html
+
+---------------------------------------------------------------------
+[Connecting] : http://scholarworks.sjsu.edu...
+[Connected]  : http://scholarworks.sjsu.edu is connected
+[Checking 39/1550] : Checking http://scholarworks.sjsu.edu 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://www.flaglercounty.org...
+[Connected]  : http://www.flaglercounty.org is connected
+[Checking 40/1550] : Checking http://www.flaglercounty.org 
+
+[OK] : http://www.flaglercounty.org/admin.php
+
+---------------------------------------------------------------------
+[Connecting] : http://osteopatiyapps.ru
+[Failed] : http://osteopatiyapps.ru is offline or invalid URL
+
+[NO PANEL] : No Panel Found.. 
+---------------------------------------------------------------------
+[Connecting] : http://www.schiffmans.com...
+[Connected]  : http://www.schiffmans.com is connected
+[Checking 42/1550] : Checking http://www.schiffmans.com 
+
+[OK] : http://www.schiffmans.com/adm/
+[OK] : http://www.schiffmans.com/login.asp
+[OK] : http://www.schiffmans.com/login/
+[OK] : http://www.schiffmans.com/sm/login.asp
+[OK] : http://www.schiffmans.com/admin/
+[OK] : http://www.schiffmans.com/registration/
+[OK] : http://www.schiffmans.com/control/
+
+---------------------------------------------------------------------
+[Connecting] : http://campinghappydays.it...
+[Connected]  : http://campinghappydays.it is connected
+[Checking 43/1550] : Checking http://campinghappydays.it 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://www.stepleague.net...
+[Connected]  : http://www.stepleague.net is connected
+[Checking 44/1550] : Checking http://www.stepleague.net 
+
+[OK] : http://www.stepleague.net/adm/
+[OK] : http://www.stepleague.net/admin/
+[OK] : http://www.stepleague.net/registration/
+
+---------------------------------------------------------------------
+[Connecting] : http://www.jubileehomes.net...
+[Connected]  : http://www.jubileehomes.net is connected
+[Checking 45/1550] : Checking http://www.jubileehomes.net 
+
+[OK] : http://www.jubileehomes.net/login/
+[OK] : http://www.jubileehomes.net/admin/
+[OK] : http://www.jubileehomes.net/registration/
+[OK] : http://www.jubileehomes.net/wp-login.php
+[OK] : http://www.jubileehomes.net/portal/login/index.php
+
+---------------------------------------------------------------------
+[Connecting] : http://repository.upenn.edu...
+[Connected]  : http://repository.upenn.edu is connected
+[Checking 46/1550] : Checking http://repository.upenn.edu 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://www.altenzo.com...
+[Connected]  : http://www.altenzo.com is connected
+[Checking 47/1550] : Checking http://www.altenzo.com 
+
+[OK] : http://www.altenzo.com/adm/
+[OK] : http://www.altenzo.com/login/
+[OK] : http://www.altenzo.com/admin/
+[OK] : http://www.altenzo.com/registration/
+[OK] : http://www.altenzo.com/login.html
+[OK] : http://www.altenzo.com/control/
+
+---------------------------------------------------------------------
+[Connecting] : http://www.altinuc.com.tr...
+[Connected]  : http://www.altinuc.com.tr is connected
+[Checking 48/1550] : Checking http://www.altinuc.com.tr 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://barfkoswill.shop.musictoday.com...
+[Connected]  : http://barfkoswill.shop.musictoday.com is connected
+[Checking 49/1550] : Checking http://barfkoswill.shop.musictoday.com 
+
+[OK] : http://barfkoswill.shop.musictoday.com/adminlogin.php
+[OK] : http://barfkoswill.shop.musictoday.com/adm/
+[OK] : http://barfkoswill.shop.musictoday.com/admin/adminLogin.html
+[OK] : http://barfkoswill.shop.musictoday.com/login.asp
+[OK] : http://barfkoswill.shop.musictoday.com/relogin.html
+[OK] : http://barfkoswill.shop.musictoday.com/admin/account.html
+[OK] : http://barfkoswill.shop.musictoday.com/bb-admin/admin.php
+[OK] : http://barfkoswill.shop.musictoday.com/login/
+[OK] : http://barfkoswill.shop.musictoday.com/admin/controlpanel.htm
+[OK] : http://barfkoswill.shop.musictoday.com/sm/login.asp
+[OK] : http://barfkoswill.shop.musictoday.com/login.php
+[OK] : http://barfkoswill.shop.musictoday.com/user/admin.php
+[OK] : http://barfkoswill.shop.musictoday.com/relogin.php
+[OK] : http://barfkoswill.shop.musictoday.com/admin/login.html
+[OK] : http://barfkoswill.shop.musictoday.com/admin/account.php
+[OK] : http://barfkoswill.shop.musictoday.com/admin/adminLogin.htm
+[OK] : http://barfkoswill.shop.musictoday.com/admin/
+[OK] : http://barfkoswill.shop.musictoday.com/admin/login.htm
+[OK] : http://barfkoswill.shop.musictoday.com/login.htm
+[OK] : http://barfkoswill.shop.musictoday.com/relogin.htm
+[OK] : http://barfkoswill.shop.musictoday.com/registration/
+[OK] : http://barfkoswill.shop.musictoday.com/admin/cp.php
+[OK] : http://barfkoswill.shop.musictoday.com/bb-admin/admin.html
+[OK] : http://barfkoswill.shop.musictoday.com/admin/controlpanel.php
+[OK] : http://barfkoswill.shop.musictoday.com/users/admin.php
+[OK] : http://barfkoswill.shop.musictoday.com/blog/wp-login.php
+[OK] : http://barfkoswill.shop.musictoday.com/admin/admin-login.php
+[OK] : http://barfkoswill.shop.musictoday.com/login.html
+[OK] : http://barfkoswill.shop.musictoday.com/checkadmin.php
+[OK] : http://barfkoswill.shop.musictoday.com/bb-admin/login.php
+[OK] : http://barfkoswill.shop.musictoday.com/admin/controlpanel.html
+[OK] : http://barfkoswill.shop.musictoday.com/wp-login.php
+[OK] : http://barfkoswill.shop.musictoday.com/admin.php
+[OK] : http://barfkoswill.shop.musictoday.com/portal/login/index.php
+[OK] : http://barfkoswill.shop.musictoday.com/administrator/account.php
+[OK] : http://barfkoswill.shop.musictoday.com/checkuser.php
+[OK] : http://barfkoswill.shop.musictoday.com/admin-login.php
+[OK] : http://barfkoswill.shop.musictoday.com/control/
+[OK] : http://barfkoswill.shop.musictoday.com/check.php
+[OK] : http://barfkoswill.shop.musictoday.com/processlogin.php
+[OK] : http://barfkoswill.shop.musictoday.com/admin/admin_login.php
+[OK] : http://barfkoswill.shop.musictoday.com/admin/home.php
+[OK] : http://barfkoswill.shop.musictoday.com/checklogin.php
+
+---------------------------------------------------------------------
+[Connecting] : http://www.filmtracks.com...
+[Connected]  : http://www.filmtracks.com is connected
+[Checking 50/1550] : Checking http://www.filmtracks.com 
+
+[OK] : http://www.filmtracks.com/adminlogin.php
+[OK] : http://www.filmtracks.com/adm/
+[OK] : http://www.filmtracks.com/admin/adminLogin.html
+[OK] : http://www.filmtracks.com/login.asp
+[OK] : http://www.filmtracks.com/relogin.html
+[OK] : http://www.filmtracks.com/admin/account.html
+[OK] : http://www.filmtracks.com/bb-admin/admin.php
+[OK] : http://www.filmtracks.com/login/
+[OK] : http://www.filmtracks.com/admin/controlpanel.htm
+[OK] : http://www.filmtracks.com/sm/login.asp
+[OK] : http://www.filmtracks.com/login.php
+[OK] : http://www.filmtracks.com/user/admin.php
+[OK] : http://www.filmtracks.com/relogin.php
+[OK] : http://www.filmtracks.com/admin/login.html
+[OK] : http://www.filmtracks.com/admin/account.php
+[OK] : http://www.filmtracks.com/admin/adminLogin.htm
+[OK] : http://www.filmtracks.com/admin/
+[OK] : http://www.filmtracks.com/admin/login.htm
+[OK] : http://www.filmtracks.com/login.htm
+[OK] : http://www.filmtracks.com/relogin.htm
+[OK] : http://www.filmtracks.com/registration/
+[OK] : http://www.filmtracks.com/admin/cp.php
+[OK] : http://www.filmtracks.com/bb-admin/admin.html
+[OK] : http://www.filmtracks.com/admin/controlpanel.php
+[OK] : http://www.filmtracks.com/users/admin.php
+[OK] : http://www.filmtracks.com/blog/wp-login.php
+[OK] : http://www.filmtracks.com/admin/admin-login.php
+[OK] : http://www.filmtracks.com/login.html
+[OK] : http://www.filmtracks.com/checkadmin.php
+[OK] : http://www.filmtracks.com/bb-admin/login.php
+[OK] : http://www.filmtracks.com/admin/controlpanel.html
+[OK] : http://www.filmtracks.com/wp-login.php
+[OK] : http://www.filmtracks.com/admin.php
+[OK] : http://www.filmtracks.com/portal/login/index.php
+[OK] : http://www.filmtracks.com/administrator/account.php
+[OK] : http://www.filmtracks.com/checkuser.php
+[OK] : http://www.filmtracks.com/admin-login.php
+[OK] : http://www.filmtracks.com/control/
+[OK] : http://www.filmtracks.com/check.php
+[OK] : http://www.filmtracks.com/processlogin.php
+[OK] : http://www.filmtracks.com/admin/admin_login.php
+[OK] : http://www.filmtracks.com/admin/home.php
+[OK] : http://www.filmtracks.com/checklogin.php
+
+---------------------------------------------------------------------
+[Connecting] : http://www.kaplank12.com...
+[Connected]  : http://www.kaplank12.com is connected
+[Checking 51/1550] : Checking http://www.kaplank12.com 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://www.oraxcel.com...
+[Connected]  : http://www.oraxcel.com is connected
+[Checking 52/1550] : Checking http://www.oraxcel.com 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://www.amerimark.com...
+[Connected]  : http://www.amerimark.com is connected
+[Checking 53/1550] : Checking http://www.amerimark.com 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://dss.princeton.edu...
+[Connected]  : http://dss.princeton.edu is connected
+[Checking 54/1550] : Checking http://dss.princeton.edu 
+
+
+---------------------------------------------------------------------
+[Connecting] : http://192.168.10.149
+[Failed] : http://192.168.10.149 is offline or invalid URL
+
